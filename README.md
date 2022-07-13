@@ -8,3 +8,9 @@
     <a href="https://instagram/mitya_tihiy"><img width="32px" alt="Instagram" title="Instagram" src="https://github.com/Sky-to-piece/sky-to-piece/blob/main/resources/instagram.svg"></a>&#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://t.me/mitya_tihiy"><img width="32px" alt="Telegram" title="Telegram" src="https://github.com/Sky-to-piece/sky-to-piece/blob/main/resources/telegram.svg"></a>&#8287;&#8287;&#8287;&#8287;&#8287;
   </p>
+
+
+[![codewars](https://www.codewars.com/users/Sky-to-piece/badges/large)](https://www.codewars.com/users/Sky-to-piece)   
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sky-to-piece)](https://github.com/anuraghazra/github-readme-stats)
