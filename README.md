@@ -9,8 +9,8 @@
     <a href="https://t.me/mitya_tihiy"><img width="32px" alt="Telegram" title="Telegram" src="https://github.com/Sky-to-piece/sky-to-piece/blob/main/resources/telegram.svg"></a>&#8287;&#8287;&#8287;&#8287;&#8287;
   </p>
 
-
+<div align="center">
 [![codewars](https://www.codewars.com/users/Sky-to-piece/badges/large)](https://www.codewars.com/users/Sky-to-piece)   
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sky-to-piece)](https://github.com/anuraghazra/github-readme-stats)
+</div>
