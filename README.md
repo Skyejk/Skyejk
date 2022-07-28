@@ -20,7 +20,9 @@
 <table width="100%" style="width: max-content;">
  <tbody width="100%">
   <tr>
-   i'm okay
+   <td>
+    <p>i'm okay</p>
+   <td>
   </tr>
   <tr>
    <td>
