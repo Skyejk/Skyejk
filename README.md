@@ -21,7 +21,7 @@
  <tbody width="100%">
   <tr>
    <td>
-    <p>i'm okay</p>
+    <p align="center">i'm okay</p>
    <td>
   </tr>
   <tr>
