@@ -22,7 +22,7 @@
   <tr>
    <td>
     <p align="center">i'm okay</p>
-   <td>
+   </td>
   </tr>
   <tr>
    <td>
