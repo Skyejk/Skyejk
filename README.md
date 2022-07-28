@@ -14,10 +14,4 @@
   </p>
 
 
-[![codewars](https://www.codewars.com/users/Sky-to-piece/badges/large)](https://www.codewars.com/users/Sky-to-piece)   
-
-
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sky-to-piece)](https://github.com/anuraghazra/github-readme-stats)
- 
-</div>
+[![codewars](https://www.codewars.com/users/Sky-to-piece/badges/large)](https://www.codewars.com/users/Sky-to-piece)
