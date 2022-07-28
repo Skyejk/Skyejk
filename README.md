@@ -26,7 +26,7 @@
   </tr>
   <tr>
    <td>
-    <img src="https://github.com/Sky-to-piece/Sky-to-piece/blob/main/resources/db_nf.gif" width="100%" height="100%"></img>
+    <img src="https://github.com/Sky-to-piece/Sky-to-piece/blob/main/resources/dashboard.gif" width="100%" height="100%"></img>
    </td>
   </tr>
  </tbody>
