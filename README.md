@@ -26,8 +26,7 @@
   </tr>
   <tr>
    <td>
-    <img src="https://i.gifer.com/1abF.gif" width="100%"/>
-    <iframe src="https://gifer.com/embed/4SHX" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe>
+    <img src="https://i.gifer.com/1abF.gif" width="100%" height="100%"></img>
    </td>
   </tr>
  </tbody>
@@ -38,6 +37,27 @@
  
  </div>
  
- <p>
-  <a href="https://gifer.com">через GIFER</a>
- </p>
+ 
+ <table width="100%" style="width: max-content;">
+  <tbody width="100%">
+    <tr>
+      <td width="54%">
+        <!--img src="https://github-readme-stats.vercel.app/api?count_private=true&username=adideas&show_icons=true&include_all_commits=true&theme=dark&locale=ru" /-->
+      </td>
+      <td width="46%">
+        <!--img src="https://github-readme-stats.vercel.app/api/top-langs/?count_private=true&username=adideas&show_icons=true&theme=dark&custom_title=Стек"/-->
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <h3>Contributor: </h3>
+        <a href="https://github.com/SquareGPS/navixy-api">Navixy API</a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <img src="https://github.com/Sky-to-piece/Sky-to-piece/blob/main/resources/dashboard.gif" width="100%"/>
+      </td>
+    </tr>
+  </tbody>
+</table>
