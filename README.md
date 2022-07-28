@@ -17,12 +17,14 @@
 [![codewars](https://www.codewars.com/users/Sky-to-piece/badges/large)](https://www.codewars.com/users/Sky-to-piece)
 
 
-<table>
- <tr>
-  <td>
-   <img src="https://i.gifer.com/1abF.gif" width="100%"/>
-  </td>
- </tr>
+<table width="100%" style="width: max-content;">
+ <tbody width="100%">
+  <tr>
+   <td>
+    <img src="https://i.gifer.com/1abF.gif" width="100%"/>
+   </td>
+  </tr>
+ </tbody>
 </table>
 
 <div style="padding-top:143.494%;position:relative;">
