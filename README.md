@@ -21,12 +21,12 @@
  <tbody width="100%">
   <tr>
    <td>
-    <p align="center">i'm okay</p>
+    <p align="center"><a href="https://www.linux.org.ru/news/hardware/16866420">WOW! We waited! NVIDIA has published free drivers for the Linux kernel</a></p>
    </td>
   </tr>
   <tr>
    <td>
-    <img src="https://github.com/Sky-to-piece/Sky-to-piece/blob/main/resources/dashboard.gif" width="100%" height="100%"></img>
+    <img src="https://github.com/Sky-to-piece/Sky-to-piece/blob/main/resources/dance.gif" width="100%" height="100%"></img>
    </td>
   </tr>
  </tbody>
