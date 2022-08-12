@@ -11,8 +11,8 @@
     <a href="https://www.facebook.com/mitya.tihiy/"><img width="32px" alt="Facebook" title="Facebook" src="https://github.com/Sky-to-piece/sky-to-piece/blob/main/resources/facebook.svg"></a>&#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://t.me/mitya_tihiy"><img width="32px" alt="Telegram" title="Telegram" src="https://github.com/Sky-to-piece/sky-to-piece/blob/main/resources/telegram.svg"></a>&#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://steamcommunity.com/id/tokugava_norimura/"><img width="32px" alt="Steam" title="Steam" src="https://github.com/Sky-to-piece/sky-to-piece/blob/main/resources/steam.svg"></a>&#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://hh.ru/resume/3d840191ff090e00990039ed1f525a365a4c53"><img width="32px" alt="HeadHunter" title="HeadHunter" src="https://github.com/Sky-to-piece/sky-to-piece/blob/main/resources/HeadHunter.png"></a>&#8287;&#8287;&#8287;&#8287;&#8287;
   </p>
-
 
 [![codewars](https://www.codewars.com/users/Sky-to-piece/badges/large)](https://www.codewars.com/users/Sky-to-piece)
 
