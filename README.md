@@ -1,7 +1,7 @@
  <div align="center">
  
  <p align="center">
-    <a href="https://github.com/Sky-to-piece/"><img src="https://readme-typing-svg.herokuapp.com/?lines=How_are_you?.&font=Consolas%20Code&center=true&width=500&height=45&color=080&vCenter=true&size=20"></a>
+    <a href="https://github.com/Sky-to-piece/"><img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome_to_my_humble_home,wanderer.&font=Consolas%20Code&center=true&width=500&height=45&color=080&vCenter=true&size=20"></a>
   </p>
 
   <p align="center">
