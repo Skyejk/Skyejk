@@ -14,7 +14,7 @@
     <a href="https://hh.ru/resume/3d840191ff090e00990039ed1f525a365a4c53"><img width="32px" alt="HeadHunter" title="HeadHunter" src="https://github.com/Skyejk/Skyejk/blob/main/resources/HeadHunter.png"></a>&#8287;&#8287;&#8287;&#8287;&#8287;
   </p>
 
-[![codewars](https://www.codewars.com/users/Sky-to-piece/badges/large)](https://www.codewars.com/users/Skyejk)
+[![codewars](https://www.codewars.com/users/Skyejk/badges/large)](https://www.codewars.com/users/Skyejk)
 
 
 <table width="100%" style="width: max-content;">
@@ -26,7 +26,7 @@
   </tr>
   <tr>
    <td>
-    <img src="https://github.com/Sky-to-piece/Sky-to-piece/blob/main/resources/dance.gif" width="100%" height="100%"></img>
+    <img src="https://github.com/Skyejk/Skyejk/blob/main/resources/dance.gif" width="100%" height="100%"></img>
    </td>
   </tr>
  </tbody>
