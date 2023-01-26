@@ -27,3 +27,8 @@
   </tr>
  </tbody>
 </table>
+<p align="center">
+ <a href="https://musicforprogramming.net/latest/">
+  <img width="32px" alt="Music" title="Music" src="https://github.com/Skyejk/Skyejk/blob/main/resources/music.svg"
+ </a>&#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
