@@ -1,13 +1,5 @@
 <div align="center">
   <p align="center">
-    <a href="https://vk.com/skyejk">
-      <img width="32px" alt="skyejk" title="skyejk"
-           src="https://github.com/Skyejk/Skyejk/blob/main/resources/vk.svg">
-    </a>&#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://discord.com/channels/999255160582832128">
-      <img width="32px" alt="Insane#4737" title="Insane#4737"
-           src="https://github.com/Skyejk/Skyejk/blob/main/resources/discord.svg">
-    </a>&#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://t.me/skyejk">
       <img width="32px" alt="@skyejk" title="@skyejk"
            src="https://github.com/Skyejk/Skyejk/blob/main/resources/telegram.svg">
