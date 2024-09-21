@@ -2,7 +2,7 @@
 
 [![codewars](https://www.codewars.com/users/Skyejk/badges/large)](https://www.codewars.com/users/Skyejk)
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+repository,+young+traveler.&font=Consolas%20Code&center=true&width=720&height=50&color=090&vCenter=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=_Welcome+to+my+repository,+young+traveler.&font=Consolas%20Code&center=true&width=720&height=50&color=090&vCenter=true&size=30">
   </p>
   <p>
     <img src="https://github.com/Skyejk/Skyejk/blob/main/resources/proger.gif"
